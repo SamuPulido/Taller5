@@ -1,0 +1,11 @@
+Cliente: Samuel
+Dirección: Calle 123
+----------------
+hamburguesa
+            10000
+papas
+            5000
+----------------
+Precio Neto:  15000
+IVA:          2850
+Precio Total: 17850

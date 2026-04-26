@@ -23,7 +23,7 @@ public class RestauranteTest
     void setUp()
     {
         restaurante = new Restaurante();
-        new File("./facturas").mkdir(); //.mkdir es para crear la carpeta facturas, si ya esta creada, no crea nada 
+        new File("./facturas").mkdir(); //.mkdir es para crear la carpeta facturas, si ya esta creada, no crea nada
     }
 
     @Test
