@@ -1,11 +1,9 @@
-Cliente: Samuel
-Dirección: Calle 123
+Cliente: Laura
+Dirección: Carrera 45
 ----------------
-hamburguesa
-            10000
 papas
             5000
 ----------------
-Precio Neto:  15000
-IVA:          2850
-Precio Total: 17850
+Precio Neto:  5000
+IVA:          950
+Precio Total: 5950
